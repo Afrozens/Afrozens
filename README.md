@@ -10,7 +10,7 @@
     * Be a good web developer. 🧠
     * Become a Blockchain developer. ⚙️
 
-### Myinformation.js
+### myInformation.js
 
 ```js
 const afrozen = {
