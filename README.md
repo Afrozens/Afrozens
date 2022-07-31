@@ -8,7 +8,7 @@
 3. Dream: 
     * Remote work as Frontend. 🙏🏼
     * Be a good web developer. 🧠
-    * become a Blockchain developer. ⚙️
+    * Become a Blockchain developer. ⚙️
 
 ### Myinformation.js
 
