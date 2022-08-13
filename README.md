@@ -5,7 +5,7 @@
     * [Instagram](https://www.instagram.com/afrozens/) 
     * [Instagram - ProjectNFT](https://www.instagram.com/mpxbit_education/)
 2. About: Frontend Developer and NFT Project Creator
-3. Dream: 
+3. Objectives: 
     * Remote work as Frontend. 🙏🏼
     * Be a good web developer. 🧠
     * Become a Blockchain developer. ⚙️
@@ -15,7 +15,7 @@
 ```js
 const afrozen = {
     languages: ["Spanish", "English [basic]"],
-    code: [Javascript, HTML, CSS, React],
+    code: [Javascript, HTML, CSS, Angular, Typescript, Tailwind],
     askMeAbout: ["tech", "AnatomyGrey", "NFT", "Blockchain", "Web dev", "autodidact"],
 }
 
