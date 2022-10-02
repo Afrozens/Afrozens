@@ -15,7 +15,7 @@
 ```js
 const afrozen = {
     languages: ["Spanish", "English [basic]"],
-    code: [Javascript, HTML, CSS, Angular, Typescript, Tailwind],
+    code: [Javascript, HTML, CSS, React, Typescript, Tailwind],
     askMeAbout: ["tech", "AnatomyGrey", "NFT", "Blockchain", "Web dev", "autodidact"],
 }
 
