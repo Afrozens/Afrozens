@@ -1,12 +1,29 @@
 ## Hola! Bienvenido a mi perfil de GitHub 🖐🏼
 ## Hi, welcome to my GitHub profile. 🖐🏼
 
-### myInformation.js
+### myInformation.json
 
 ```js
-const afrozen = {
-    languages: ["Spanish", "English [basic]"],
-    code: [Javascript, HTML, CSS, React, Typescript, Tailwind],
-    askMeAbout: ["tech", "AnatomyGrey", "NFT", "Blockchain", "Web dev", "autodidact"],
+{
+ "afrozen": [
+    {
+      "me": {
+       "id": 1,
+       "name": "Jesus Chacon",
+       "focus": true,
+      }
+    },
+    {
+      "languages": {
+        "spanish": "native",
+        "english": "a2",
+      }
+    },
+    {
+      "code": ["javaScript", "html", "css", "react", "tailwind", "emotion", "typeScript", "tested"]
+    },
+    {
+      "askMeAbout": ["tech", "anatomyGrey", "NFT", "blockchain", "web dev", "autodidact"]
+    },
+ ]
 }
-
