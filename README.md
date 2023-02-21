@@ -20,10 +20,10 @@
       }
     },
     {
-      "code": ["javaScript", "html", "css", "react", "tailwind", "emotion", "typeScript", "tested"]
+      "code": ["javaScript", "html", "css", "react", "tailwind", "emotion", "typeScript", "vitest", "redux", "zustand]
     },
     {
-      "askMeAbout": ["tech", "anatomyGrey", "NFT", "blockchain", "web dev", "autodidact"]
+      "askMeAbout": ["tech", "anatomyGrey", "functionalProgram", "blockchain", "web dev", "autodidact"]
     },
  ]
 }
