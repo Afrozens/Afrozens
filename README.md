@@ -20,7 +20,7 @@
       }
     },
     {
-      "code": ["javaScript", "html", "css", "react", "tailwind", "emotion", "typeScript", "vitest", "redux", "emotion"]
+      "code": ["javaScript", "css", "react", "tailwind", "emotion", "typeScript", "vitest", "redux", "framerMotion"]
     },
     {
       "askMeAbout": ["tech", "anatomyGrey", "functionalProgram", "blockchain", "web dev", "autodidact"]
