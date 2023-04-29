@@ -4,26 +4,33 @@
 ### myInformation.json
 
 ```js
-{
- "afrozen": [
+[
+ {
+ "afrozens": [
     {
       "me": {
        "id": 1,
        "name": "Jesus Chacon",
        "focus": true,
+       "learning": ["DTO", "fastApi"]
       }
     },
     {
       "languages": {
         "spanish": "native",
-        "english": "a2",
+        "english": "a2"
       }
     },
     {
-      "code": ["javaScript", "styledComponents", "react", "tailwind", "nodeJs", "typeScript", "nextJs", "redux"]
+      "code": {
+       languages: ["javaScript, "typeScript", "reactJs", "nextJs", "nodeJs", "python"],
+       styled: ["tailwind", "styledComponents", "cssModule", "framerMotion", "MaterialUI"],
+       more: ["mongoDB", "authenticationStrategies", "cleanArquitecture", "scrum", "jest"],
+      }
     },
     {
-      "askMeAbout": ["tech", "anatomyGrey", "functionalProgram", "blockchain", "web dev", "autodidact"]
+      "askMeAbout": ["tech", "anatomyGrey", "functionalProgram", "blockchain", "web dev", "react"]
     },
  ]
-}
+ }
+]
