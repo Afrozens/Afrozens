@@ -12,20 +12,20 @@
        "id": 1,
        "name": "Jesus Chacon",
        "focus": true,
-       "learning": ["DTO", "fastApi"]
+       "learning": ["Blade", "Vue"]
       }
     },
     {
       "languages": {
         "spanish": "native",
-        "english": "a2"
+        "english": "B1"
       }
     },
     {
       "code": {
-       languages: ["javaScript, "typeScript", "reactJs", "nextJs", "nodeJs", "python"],
+       languages: ["javaScript, "PHP", "typeScript", "python", "reactJs", "nextJs", "nodeJs", "FastApi", "Laravel"],
        styled: ["tailwind", "styledComponents", "cssModule", "framerMotion", "MaterialUI"],
-       more: ["mongoDB", "authenticationStrategies", "cleanArquitecture", "scrum", "jest"],
+       more: ["mongoDB", "mySql", "eloquent", "sqlAlchemy" ,"authenticationStrategies", "cleanArquitecture", "scrum", "jest"],
       }
     },
     {
