@@ -12,7 +12,7 @@
        "id": 1,
        "name": "Jesus Chacon",
        "focus": true,
-       "learning": ["Blade", "Vue"]
+       "learning": ["React Native", "Vue"]
       }
     },
     {
@@ -25,7 +25,7 @@
       "code": {
        languages: ["javaScript, "PHP", "typeScript", "python", "reactJs", "nextJs", "nodeJs", "FastApi", "Laravel"],
        styled: ["tailwind", "styledComponents", "cssModule", "framerMotion", "MaterialUI"],
-       more: ["mongoDB", "mySql", "eloquent", "sqlAlchemy" ,"authenticationStrategies", "cleanArquitecture", "scrum", "jest"],
+       more: ["inertia","mongoDB", "mySql", "eloquent", "sqlAlchemy" ,"authenticationStrategies", "cleanArquitecture", "scrum", "jest"],
       }
     },
     {
