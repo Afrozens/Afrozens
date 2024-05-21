@@ -12,7 +12,7 @@
        "id": 1,
        "name": "Jesus Chacon",
        "focus": true,
-       "learning": ["React Native"]
+       "learning": ["React Native", "Nestjs"]
       }
     },
     {
@@ -23,13 +23,14 @@
     },
     {
       "code": {
-       languages: ["javaScript, "PHP", "typeScript", "python", "reactJs", "vue", "nextJs", "nodeJs", "FastApi", "Laravel"],
-       styled: ["tailwind", "styledComponents", "cssModule", "framerMotion", "MaterialUI"],
-       more: ["inertia","mongoDB", "mySql", "eloquent", "sqlAlchemy" ,"authenticationStrategies", "cleanArquitecture", "scrum", "jest"],
+       languages: ["javaScript, "PHP", "typeScript", "python", "nodeJs", "SQL"],
+       frameworks: ["reactJs", "vue", "nextJs", "FastApi", "Laravel"],
+       styled: ["tailwind", "styledComponents", "cssModule"],
+       more: ["inertia", "PostgreSQL", "eloquent", "sqlAlchemy" ,"authenticationStrategies", "cleanArquitecture", "scrum", "jest"],
       }
     },
     {
-      "askMeAbout": ["tech", "anatomyGrey", "functionalProgram", "blockchain", "web dev", "react"]
+      "askMeAbout": ["tech", "anatomyGrey", "functionalProgram", "blockchain", "web dev", "react", "vue"]
     },
  ]
  }
