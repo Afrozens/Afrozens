@@ -12,7 +12,7 @@
        "id": 1,
        "name": "Jesus Chacon",
        "focus": true,
-       "learning": ["React Native", "Nestjs"]
+       "learning": ["React Native", "Kali Linux", "Cibersegurity"]
       }
     },
     {
