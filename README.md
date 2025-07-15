@@ -12,7 +12,7 @@
        "id": 1,
        "name": "Jesus Chacon",
        "focus": true,
-       "learning": ["React Native", "Kali Linux", "Cibersegurity"]
+       "learning": ["React Native", "Kotlin", "Kali Linux", "Cibersegurity"]
       }
     },
     {
@@ -24,7 +24,7 @@
     {
       "code": {
        languages: ["javaScript, "PHP", "typeScript", "python", "nodeJs", "SQL"],
-       frameworks: ["reactJs", "vue", "nextJs", "FastApi", "Laravel"],
+       frameworks: ["reactJs", "vue", "nextJs", "fastApi", "laravel"],
        styled: ["tailwind", "styledComponents", "cssModule"],
        more: ["inertia", "PostgreSQL", "eloquent", "sqlAlchemy" ,"authenticationStrategies", "cleanArquitecture", "scrum", "jest"],
       }
