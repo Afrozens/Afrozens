@@ -12,7 +12,7 @@
        "id": 1,
        "name": "Jesus Chacon",
        "focus": true,
-       "learning": ["React Native", "Kotlin", "Kali Linux", "Cibersegurity"]
+       "learning": ["React Native", "Kotlin", "AWS", "Cibersegurity"]
       }
     },
     {
@@ -30,8 +30,9 @@
       }
     },
     {
-      "askMeAbout": ["tech", "anatomyGrey", "functionalProgram", "blockchain", "web dev", "react", "vue"]
+      "askMeAbout": ["tech", "anatomyGrey", "functionalProgram", "blockchain", "web dev", "react", "vue", "infrastructure_as_code"]
     },
  ]
  }
 ]
+
