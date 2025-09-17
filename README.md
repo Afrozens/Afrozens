@@ -26,13 +26,14 @@
        languages: ["javaScript, "PHP", "typeScript", "python", "nodeJs", "SQL"],
        frameworks: ["reactJs", "vue", "nextJs", "fastApi", "laravel"],
        styled: ["tailwind", "styledComponents", "cssModule"],
-       more: ["inertia", "PostgreSQL", "eloquent", "sqlAlchemy" ,"authenticationStrategies", "cleanArquitecture", "scrum", "jest"],
+       more: ["inertia", "PostgreSQL", "ORM" ,"authenticationStrategies", "cleanArquitecture"],
       }
     },
     {
-      "askMeAbout": ["tech", "anatomyGrey", "functionalProgram", "blockchain", "web dev", "react", "vue", "infrastructure_as_code"]
+      "askMeAbout": ["tech", "infrastructure_as_code", "frontend", "anatomyGrey", "functionalProgram", "blockchain", "web dev"]
     },
  ]
  }
 ]
+
 
