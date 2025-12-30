@@ -12,7 +12,7 @@
        "id": 1,
        "name": "Jesus Chacon",
        "focus": true,
-       "learning": ["React Native", "Kotlin", "AWS", "Cibersegurity"]
+       "learning": ["C++", "AWS", "Unreal Engine 5+"]
       }
     },
     {
@@ -35,5 +35,6 @@
  ]
  }
 ]
+
 
 
