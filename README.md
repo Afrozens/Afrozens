@@ -12,7 +12,7 @@
        "id": 1,
        "name": "Jesus Chacon",
        "focus": true,
-       "learning": ["C++", "AWS", "Unreal Engine 5+"]
+       "learning": ["Cyber Security", "AWS", "IA Agent"]
       }
     },
     {
