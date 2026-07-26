@@ -12,7 +12,7 @@
        "id": 1,
        "name": "Jesus Chacon",
        "focus": true,
-       "learning": ["Cyber Security", "AWS", "IA Agent"]
+       "learning": ["Cyber Security", "AWS", "IA Enginer"]
       }
     },
     {
@@ -23,9 +23,9 @@
     },
     {
       "code": {
+       specialties: ["AI Agent", "Frontend (Microfrontend {NPM, Module Federation})", "FastAPI"]
        languages: ["javaScript, "PHP", "typeScript", "python", "nodeJs", "SQL"],
        frameworks: ["reactJs", "vue", "nextJs", "fastApi", "laravel"],
-       styled: ["tailwind", "styledComponents", "cssModule"],
        more: ["inertia", "PostgreSQL", "ORM" ,"authenticationStrategies", "cleanArquitecture"],
       }
     },
