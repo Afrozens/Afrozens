@@ -23,7 +23,7 @@
     },
     {
       "code": {
-       specialties: ["AI Agent", "Frontend (Microfrontend {NPM, Module Federation})", "FastAPI"]
+       specialties: ["AI Agent", "Frontend (Microfrontend {NPM, Module Federation})", "FastAPI"],
        languages: ["javaScript, "PHP", "typeScript", "python", "nodeJs", "SQL"],
        frameworks: ["reactJs", "vue", "nextJs", "fastApi", "laravel"],
        more: ["inertia", "PostgreSQL", "ORM" ,"patterns and design", "Arquitecture"],
